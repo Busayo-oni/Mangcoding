@@ -206,7 +206,7 @@ p{
 .grid-en p{
     color: #646464;
 }
-.blue-en{
+.grid-en .blue-en{
     width: 120px;
     height: 30px;
     background-color: #545BE8;
